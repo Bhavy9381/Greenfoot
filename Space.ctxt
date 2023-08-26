@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Space
+comment1.params=
+comment1.target=Space()
+comment2.params=
+comment2.target=void\ addStar()
+comment3.params=star
+comment3.target=void\ addAnyStar(Star)
+comment4.params=
+comment4.target=void\ addPortal()
+comment5.params=
+comment5.target=void\ addAlien()
+comment6.params=
+comment6.target=void\ appear()
+comment7.params=
+comment7.target=void\ displayScore()
+comment8.params=
+comment8.target=void\ act()
+comment9.params=
+comment9.target=void\ nextLevel()
+numComments=10
